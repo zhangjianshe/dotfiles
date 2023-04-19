@@ -1,0 +1,14 @@
+set number
+set autoindent
+set nowrap
+set rnu
+
+
+call plug#begin()
+
+Plug 'junegunn/fzf.vim'
+Plug 'preservim/nerdtree'
+Plug 'rust-lang/rust.vim'
+
+call plug#end()
+
