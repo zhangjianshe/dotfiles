@@ -9,6 +9,7 @@ call plug#begin()
 Plug 'junegunn/fzf.vim'
 Plug 'preservim/nerdtree'
 Plug 'rust-lang/rust.vim'
+Plug 'vim-airline/vim-airline'
 
 call plug#end()
 
